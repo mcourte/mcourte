@@ -9,7 +9,7 @@ Actuellement en formation pour devenir développeuse et conceptrice de logiciel,
 *Frameworks :* Django  
 *Outils de développement :* VScode  
 *Autres compétences pertinentes :* Anglais niveau B2  
-*Portfolio :* Vous pouvez consulter certains de mes projets sur mon [portfolio](https://www.canva.com/design/DAF_kTwh-Mc/_duFLRaiz7uWQDO29_aWGg/view?utm_content=DAF_kTwh-Mc&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+*Portfolio :* Vous pouvez consulter certains de mes projets sur mon [portfolio](https://www.canva.com/design/DAF_kTwh-Mc/eRn1TVcKmXHio6mxEz3cqg/edit?utm_content=DAF_kTwh-Mc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## Me contacter
 N'hésitez pas à me contacter sur [Linkedin](https://www.linkedin.com/in/magali-courté) pour discuter de collaborations, de projets intéressants ou simplement pour échanger des idées !
