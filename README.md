@@ -5,7 +5,7 @@ Passionnée par la création de logiciels et la résolution de problèmes, j'ai 
 Actuellement en formation pour devenir développeuse et conceptrice de logiciel, et je cherche à étendre mes compétences et à contribuer à des projets intéressants.
 
 ## Compétences
-*Système d'exploitation utilisé :* Linux - Mint
+*Système d'exploitation utilisé :* Linux - Mint  
 *Langages de programmation :* Python  
 *Frameworks :* Django  
 *Outils de développement :* VScode  
