@@ -7,8 +7,7 @@ Actuellement en formation pour devenir développeuse et conceptrice de logiciel,
 ## Compétences
 *Système d'exploitation utilisé :* Linux - Mint  
 *Langages de programmation :* Python  
-*Frameworks :* Django  
-*Outils de développement :* VScode  
+*IDE :* VScode  
 *Autres compétences pertinentes :* Anglais niveau B2  
 *Portfolio :* Vous pouvez consulter certains de mes projets sur mon [portfolio](https://www.canva.com/design/DAF_kTwh-Mc/_duFLRaiz7uWQDO29_aWGg/view?utm_content=DAF_kTwh-Mc&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
 *[CV](https://www.canva.com/design/DAF_lO8_Ju4/FdQ8M4F0vA1FuHqPBmaPGQ/view?utm_content=DAF_lO8_Ju4&utm_campaign=designshare&utm_medium=link&utm_source=editor)*  
