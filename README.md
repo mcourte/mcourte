@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub ! 
 ## À propos de moi
-Je m'appelle Magali et je suis en reconversion professionnelle dans le domaine du développement informatique.  
+Je m'appelle Magali, Ingénieure de formation dans le Bâtiment et les Travaux Publics, je suis en reconversion professionnelle dans le domaine du développement informatique.  
 Passionnée par la création de logiciels et la résolution de problèmes, j'ai choisi de me spécialiser en Python.  
 Actuellement en formation pour devenir développeuse et conceptrice de logiciel, et je cherche à étendre mes compétences et à contribuer à des projets intéressants.
 
