@@ -4,6 +4,11 @@ Après 10 ans en tant qu'ingénieure dans le BTP, je me suis convertie dans le d
 Passionnée par la création de logiciels et la résolution de problèmes, j'ai choisi de me spécialiser en Python.
 Ayant obtenu mon diplôme de développeuse et conceptrice de logiciel, je cherche à étendre mes compétences et à contribuer à des projets intéressants.
 
+## Projets
+
+Les projets commençant par "OC" sont les projets réalisés au cours de ma formation.
+Les projets commençant par "DA" sont des projets de Data Analyse que j'ai effectuée en tant que projets personnels.
+
 ## Compétences
 *Système d'exploitation utilisé :* Linux - Mint  
 *Langages de programmation :* Python  
