@@ -15,8 +15,11 @@ Les projets commençant par "DA" sont des projets de Data Analyse que j'ai effec
 *IDE :* VScode  
 *Autres compétences pertinentes :* Anglais niveau B2  
 *Portfolio :* Vous pouvez consulter certains de mes projets sur mon [portfolio](https://www.canva.com/design/DAF_kTwh-Mc/eRn1TVcKmXHio6mxEz3cqg/edit?utm_content=DAF_kTwh-Mc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-*[Portfolio Github :](https://mcourte.github.io/)*  
+*[Portfolio Github](https://mcourte.github.io/)*  
 *[CV](https://www.canva.com/design/DAF_lO8_Ju4/FdQ8M4F0vA1FuHqPBmaPGQ/view?utm_content=DAF_lO8_Ju4&utm_campaign=designshare&utm_medium=link&utm_source=editor)*  
+*[English Resume](https://www.canva.com/design/DAGYvDasTrc/oWOZTj8jyFYpsI_u5bQvuQ/edit)*
 
 ## Me contacter
 N'hésitez pas à me contacter sur [Linkedin](https://www.linkedin.com/in/magali-courté) pour discuter de collaborations, de projets intéressants ou simplement pour échanger des idées !
+mcourte@outlook.fr
++336.49.73.8.64
