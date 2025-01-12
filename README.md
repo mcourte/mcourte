@@ -21,5 +21,5 @@ Les projets commençant par "DA" sont des projets de Data Analyse que j'ai effec
 
 ## Me contacter
 N'hésitez pas à me contacter sur [Linkedin](https://www.linkedin.com/in/magali-courté) pour discuter de collaborations, de projets intéressants ou simplement pour échanger des idées !
-mcourte@outlook.fr
-+336.49.73.8.64
+mcourte@outlook.fr  
++33 6.49.73.8.64
