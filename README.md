@@ -13,10 +13,9 @@ Les projets commençant par "DA" sont des projets de Data Analyse que j'ai effec
 *Langages de programmation :* Python  
 *IDE :* VScode  
 *Autres compétences pertinentes :* Anglais niveau B2  
-*Portfolio :* Vous pouvez consulter certains de mes projets sur mon [portfolio](https://www.canva.com/design/DAF_kTwh-Mc/eRn1TVcKmXHio6mxEz3cqg/edit?utm_content=DAF_kTwh-Mc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 *[Portfolio Github](https://mcourte.github.io/)*  
-*[CV](https://www.canva.com/design/DAF_lO8_Ju4/FdQ8M4F0vA1FuHqPBmaPGQ/view?utm_content=DAF_lO8_Ju4&utm_campaign=designshare&utm_medium=link&utm_source=editor)*  
-*[English Resume](https://www.canva.com/design/DAGYvDasTrc/oWOZTj8jyFYpsI_u5bQvuQ/edit)*
+*[CV](https://www.canva.com/design/DAGdaHe7ii0/S8_MFWZunUjGLv8DJjsd6Q/view?utm_content=DAGdaHe7ii0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9a1d287f00)*  
+*[English Resume](https://www.canva.com/design/DAGdaIv50EQ/YQNlvknJ43rOYhKgJ4K1vw/view?utm_content=DAGdaIv50EQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc1bc9bab98)*
 
 ## Me contacter
 N'hésitez pas à me contacter sur [Linkedin](https://www.linkedin.com/in/magali-courté) pour discuter de collaborations, de projets intéressants ou simplement pour échanger des idées !
@@ -43,7 +42,7 @@ Projects starting with "DA" are Data Analysis projects that I carried out as per
 *IDE:* VScode  
 *Other relevant skills:* English level B2  
 *[Github Portfolio](https://mcourte.github.io/)*  
-*[English Summary](https://www.canva.com/design/DAGYvDasTrc/oWOZTj8jyFYpsI_u5bQvuQ/edit)*
+*[English Summary](https://www.canva.com/design/DAGdaIv50EQ/YQNlvknJ43rOYhKgJ4K1vw/view?utm_content=DAGdaIv50EQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc1bc9bab98)*
 
 ## Contact me  
 Do not hesitate to contact me on [Linkedin](https://www.linkedin.com/in/magali-courté) to discuss collaborations, interesting projects or simply to exchange ideas!  
