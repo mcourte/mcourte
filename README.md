@@ -42,7 +42,7 @@ Projects starting with "DA" are Data Analysis projects that I carried out as per
 *IDE:* VScode  
 *Other relevant skills:* English level B2  
 *[Github Portfolio](https://mcourte.github.io/)*  
-*[English Summary](https://www.canva.com/design/DAGdaIv50EQ/YQNlvknJ43rOYhKgJ4K1vw/view?utm_content=DAGdaIv50EQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc1bc9bab98)*
+*[English Resume](https://www.canva.com/design/DAGdaIv50EQ/YQNlvknJ43rOYhKgJ4K1vw/view?utm_content=DAGdaIv50EQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc1bc9bab98)*
 
 ## Contact me  
 Do not hesitate to contact me on [Linkedin](https://www.linkedin.com/in/magali-courté) to discuss collaborations, interesting projects or simply to exchange ideas!  
