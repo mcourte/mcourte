@@ -17,7 +17,6 @@ Projects starting with "DA" are Data Analysis projects that I carried out as per
 *Other relevant skills:* Jupyter Notebook, CSS, HTML, Docker, Circle CI  
 *Language* : English Level B2  
 *[Github Portfolio](https://mcourte.github.io/)*  
-*[English Resume](https://www.canva.com/design/DAGdaIv50EQ/YQNlvknJ43rOYhKgJ4K1vw/view?utm_content=DAGdaIv50EQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc1bc9bab98)*
 
 ## Contact me  
 Do not hesitate to contact me on [Linkedin](https://www.linkedin.com/in/magali-courté) to discuss collaborations, interesting projects or simply to exchange ideas!  
@@ -44,8 +43,7 @@ Les projets commençant par "DA" sont des projets de Data Analyse que j'ai effec
 *Autres compétences pertinentes :* Jupyter Notebook, CSS, HTML, Docker, Circle CI  
 *Langues* : Anglais Niveau B2  
 *[Portfolio Github](https://mcourte.github.io/)*  
-*[CV](https://www.canva.com/design/DAGdaHe7ii0/S8_MFWZunUjGLv8DJjsd6Q/view?utm_content=DAGdaHe7ii0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9a1d287f00)*  
-*[English Resume](https://www.canva.com/design/DAGdaIv50EQ/YQNlvknJ43rOYhKgJ4K1vw/view?utm_content=DAGdaIv50EQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc1bc9bab98)*
+*[CV](https://www.canva.com/design/DAGhsQJjW5c/7KO4Id6_9bI2dl0pMxc7ow/edit?utm_content=DAGhsQJjW5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*  
 
 ## Me contacter
 N'hésitez pas à me contacter sur [Linkedin](https://www.linkedin.com/in/magali-courté) pour discuter de collaborations, de projets intéressants ou simplement pour échanger des idées !
