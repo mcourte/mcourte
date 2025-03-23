@@ -43,7 +43,7 @@ Les projets commençant par "DA" sont des projets de Data Analyse que j'ai effec
 *Autres compétences pertinentes :* Jupyter Notebook, CSS, HTML, Docker, Circle CI  
 *Langues* : Anglais Niveau B2  
 *[Portfolio Github](https://mcourte.github.io/)*  
-*[CV](https://www.canva.com/design/DAGhsQJjW5c/7KO4Id6_9bI2dl0pMxc7ow/edit?utm_content=DAGhsQJjW5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*  
+*[CV](https://www.canva.com/design/DAGiibij83Y/2YPddxT03V-RiuYI-NaRTA/edit?utm_content=DAGiibij83Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*  
 
 ## Me contacter
 N'hésitez pas à me contacter sur [Linkedin](https://www.linkedin.com/in/magali-courté) pour discuter de collaborations, de projets intéressants ou simplement pour échanger des idées !
